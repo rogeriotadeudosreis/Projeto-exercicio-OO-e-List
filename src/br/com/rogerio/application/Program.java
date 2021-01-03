@@ -23,6 +23,7 @@ public class Program {
 
         List<Employee> list = new ArrayList<>();
 
+        System.out.println("");
         System.out.print("How many employees will be registered ? ");
         int n = scan.nextInt();
 
